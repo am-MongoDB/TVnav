@@ -4,5 +4,5 @@ Sample data, MongoDB aggregation query and output for faceted navigation of a TV
 To load sample data:
 
 ```bash
-mongoimport storeData.json
+mongoimport -d store -c products storeData.json
 ```
