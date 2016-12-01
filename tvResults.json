@@ -1,0 +1,139 @@
+{
+	"price" : [
+		{
+			"count" : 29,
+			"lowerPriceBound" : 0
+		},
+		{
+			"count" : 272,
+			"lowerPriceBound" : 200
+		},
+		{
+			"count" : 165,
+			"lowerPriceBound" : 699
+		},
+		{
+			"count" : 260,
+			"lowerPriceBound" : 1000
+		},
+		{
+			"count" : 274,
+			"lowerPriceBound" : "Over 1500"
+		}
+	],
+	"brands" : [
+		{
+			"count" : 277,
+			"brand" : "SAMSUNG"
+		},
+		{
+			"count" : 169,
+			"brand" : "PANASONIC"
+		},
+		{
+			"count" : 151,
+			"brand" : "LG"
+		},
+		{
+			"count" : 105,
+			"brand" : "JVC"
+		},
+		{
+			"count" : 59,
+			"brand" : "SONY"
+		},
+		{
+			"count" : 53,
+			"brand" : "PHILIPS"
+		},
+		{
+			"count" : 51,
+			"brand" : "LOGIK"
+		},
+		{
+			"count" : 50,
+			"brand" : "SEIKI"
+		},
+		{
+			"count" : 44,
+			"brand" : "MONGODB"
+		},
+		{
+			"count" : 41,
+			"brand" : "PROSCAN"
+		}
+	],
+	"screenSize" : [
+		{
+			"count" : 230,
+			"size" : {
+				"min" : 18,
+				"max" : 36
+			}
+		},
+		{
+			"count" : 211,
+			"size" : {
+				"min" : 36,
+				"max" : 54
+			}
+		},
+		{
+			"count" : 209,
+			"size" : {
+				"min" : 54,
+				"max" : 72
+			}
+		},
+		{
+			"count" : 208,
+			"size" : {
+				"min" : 72,
+				"max" : 90
+			}
+		},
+		{
+			"count" : 142,
+			"size" : {
+				"min" : 90,
+				"max" : 100
+			}
+		}
+	],
+	"type" : [
+		{
+			"count" : 335,
+			"type" : "4K ultra HD TVs"
+		},
+		{
+			"count" : 306,
+			"type" : "4K HDR TVs"
+		},
+		{
+			"count" : 210,
+			"type" : "Full HD TVs"
+		},
+		{
+			"count" : 84,
+			"type" : "Curved TVs"
+		},
+		{
+			"count" : 65,
+			"type" : "OLED TVs"
+		}
+	],
+	"screenTechnology" : [
+		{
+			"count" : 827,
+			"technology" : "LED"
+		},
+		{
+			"count" : 100,
+			"technology" : "Quantum Dot Display"
+		},
+		{
+			"count" : 73,
+			"technology" : "OLED"
+		}
+	]
+}
