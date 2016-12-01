@@ -1,3 +1,5 @@
+use store
+
 db.products.aggregate([
 	{
 		$match: {category: "TV"}
